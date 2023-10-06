@@ -1,7 +1,7 @@
 ## Consolidating all work done towards learning Cyber, Cloud, Tech, IT
 
 ### Image of us 
-![aspiring geeks]
+![aspiring geeks] [test photo]
 
 
 
