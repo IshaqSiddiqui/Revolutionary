@@ -1,6 +1,6 @@
 ## Consolidating all work done towards learning Cyber, Cloud, Tech, IT
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/4lsBBIvwGyTo4/giphy.gif" />
+<img align="center" alt="GIF" src="https://media.giphy.com/media/4lsBBIvwGyTo4/giphy.gif" />
 
 #### Objectives 
 
