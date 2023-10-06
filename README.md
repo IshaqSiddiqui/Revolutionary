@@ -33,9 +33,6 @@
 
 [recentaccomplishment]:https://github.com/IshaqSiddiqui/Revolutionary/assets/100017925/fb24bd9d-81e6-4537-8709-11360df90bc2
 
-![imagecopy][plchldr]
-
-[plchldr]:https://github.com/IshaqSiddiqui/Revolutionary/assets/100017925/4afa109e-701a-4ca8-b093-e41486b094c9
 
 
 
