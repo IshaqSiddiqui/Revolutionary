@@ -1,9 +1,5 @@
 ## Consolidating all work done towards learning Cyber, Cloud, Tech, IT
 
-### Image of us
-
-![us][nerdimage]
-
 <img align="right" alt="GIF" src="https://media.giphy.com/media/4lsBBIvwGyTo4/giphy.gif" />
 
 #### Objectives 
