@@ -57,7 +57,7 @@ When I'm not coding, I love jamming to music, exploring new places, binge-watchi
 
 
 
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/4lsBBIvwGyTo4/giphy.gif" />
   
 **Talking about Personal Stuffs:**
 
