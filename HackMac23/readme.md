@@ -13,11 +13,14 @@
 
 ![image](https://github.com/IshaqSiddiqui/Revolutionary/assets/100017925/8458d12b-0f82-4388-91c6-ece5150bdc8b)
 
-Each resource *group* has access controls 
+* Each resource *group* has access controls 
+![image](https://github.com/IshaqSiddiqui/Revolutionary/assets/100017925/e44cb7f3-7ad1-4a39-a25f-aefade55a303)
 
-![image](https://github.com/IshaqSiddiqui/Revolutionary/assets/100017925/0484aec4-11ad-4f09-b3f0-c3ed8da18f13)
+* Each resource within a group has access controls
 
-Each resource within a group has access controls
+![image](https://github.com/IshaqSiddiqui/Revolutionary/assets/100017925/4f441177-c5dc-4b23-bdaa-8725ff15af83)
+
+!(access control)[https://www.microsoft.com/en-au/security/business/security-101/what-is-access-control]
 
 
 ### Example of creating blob storage 
