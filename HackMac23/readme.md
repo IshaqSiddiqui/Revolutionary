@@ -39,7 +39,14 @@
 * LRS, locally redunundant storage, lowest cost available
 
   
+### Dynamic Groups 
 
+#### A dynamic group is a group that dynamically adds or removes users based on attributes. 
+
+
+
+### What about custom security attributes
+![image](https://github.com/IshaqSiddiqui/Revolutionary/assets/100017925/50cc2821-0c12-4fa8-b2ef-a388300292d8)
 
 
 
