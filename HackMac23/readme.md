@@ -11,6 +11,20 @@
 
 ## Structure 
 
+### 1. Azure Structure 
+### 2. Entra ID Structure 
+
+## Azure Structure 
+
+### Subscripton > resource group > resource  
+
+#### [Official Example][officialexample] 
+
+[officialexample]: https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/ready/azure-setup-guide/organize-resources
+
+<img width="433" alt="image" src="https://github.com/IshaqSiddiqui/Revolutionary/assets/100017925/f172a30c-a24c-4dd9-8aaf-53b6e90c13a3">
+
+
 # Users within groups who have access to resource group
   
 ![image](https://github.com/IshaqSiddiqui/Revolutionary/assets/100017925/8458d12b-0f82-4388-91c6-ece5150bdc8b)
