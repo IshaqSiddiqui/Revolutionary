@@ -14,7 +14,7 @@
 ### 1. Azure Structure 
 ### 2. Entra ID Structure 
 
-## Azure Structure 
+## 1. Azure Structure 
 
 ### Subscripton > resource group > resource  
 
@@ -24,6 +24,24 @@
 
 <img width="433" alt="image" src="https://github.com/IshaqSiddiqui/Revolutionary/assets/100017925/f172a30c-a24c-4dd9-8aaf-53b6e90c13a3">
 
+### In this scenario 
+
+* Subscription > Resouces Groups
+* Resource Groups > Admin RG, Premium RG, HighPermissionRG, AllMemberRG.
+
+#### 1. Admin RG
+* RG > RSRC > STRG ACCOUNTS, VMS
+
+#### 2. Premium RG
+* RG > RSRC > STRG ACCOUNTS
+
+#### 3. HighPermissionsRG
+* RG > RSRC > STRG ACCOUNTS
+
+#### 4. AllMembersRG
+* RG > RSRC > STRG ACCOUNTS
+
+##### More details, feel free to skip to 2 if unessecary. 
 
 # Users within groups who have access to resource group
   
