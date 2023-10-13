@@ -1,9 +1,9 @@
 # Agenda :mushroom:
 
-### * Aims :bar_chart:
-### * Structure :evergreen_tree:
-### * Accidents and Fumbles :ghost:
-### * Solves :unlock:
+### 1. Aims :bar_chart:
+### 2. Structure :evergreen_tree:
+### 3. Accidents and Fumbles :ghost:
+### 4. Solves :unlock:
 
 ## Aims 
 
