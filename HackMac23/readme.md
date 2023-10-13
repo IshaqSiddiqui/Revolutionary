@@ -54,7 +54,7 @@
 
 See [here][customattr] - 
 
-> Custom security attributes in Microsoft Entra ID are business-specific attributes (key-value pairs) that  > you can define and assign to Microsoft Entra objects. These attributes can be used to store information,  > categorize objects, or enforce fine-grained access control over specific Azure resources. Custom security > attributes can be used with Azure attribute-based access control (Azure ABAC).
+> Custom security attributes in Microsoft Entra ID are business-specific attributes (key-value pairs) that  > you can define and assign to Microsoft Entra objects. These attributes can be used to store information,  > categorize objects, or enforce fine-grained access control over specific Azure resources. Custom security attributes can be used with Azure attribute-based access control (Azure ABAC).
 
 [customattr]: https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/custom-security-attributes-overview
 
