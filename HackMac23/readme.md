@@ -41,6 +41,10 @@
 #### 4. AllMembersRG
 * RG > RSRC > STRG ACCOUNTS
 
+![image](https://github.com/IshaqSiddiqui/Revolutionary/assets/100017925/d35b3605-0a3e-47e4-a6cc-67f1fd12253f)
+
+All members have access to resource grp, resource, files within resource. 
+
 ##### More details, feel free to skip to 2 if unessecary. 
 
 # Users within groups who have access to resource group
