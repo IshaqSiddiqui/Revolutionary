@@ -1,4 +1,4 @@
-# Agenda 
+# Agenda :mushroom:
 
 * Aims
 * Structure
