@@ -43,7 +43,9 @@
 
 ![image](https://github.com/IshaqSiddiqui/Revolutionary/assets/100017925/d35b3605-0a3e-47e4-a6cc-67f1fd12253f)
 
-All members have access to resource grp, resource, files within resource. 
+* All members have access to resource grp, resource, files within resource.
+> In the image above AllMembers is a group that holds all basic members of the directory.
+  
 
 ##### More details, feel free to skip to 2 if unessecary. 
 
