@@ -43,10 +43,21 @@
 
 #### A dynamic group is a group that dynamically adds or removes users based on attributes. 
 
+#### Note: A dynamic group can be used to automatically add or remove users based on user properties. User Attributes is not synonymous with user properties. 
+
 
 
 ### What about custom security attributes
 ![image](https://github.com/IshaqSiddiqui/Revolutionary/assets/100017925/50cc2821-0c12-4fa8-b2ef-a388300292d8)
+
+#### Custom Security attributes can be used to give access to blob storage, 
+
+See [here][customattr] - 
+
+> Custom security attributes in Microsoft Entra ID are business-specific attributes (key-value pairs) that  > you can define and assign to Microsoft Entra objects. These attributes can be used to store information,  > categorize objects, or enforce fine-grained access control over specific Azure resources. Custom security > attributes can be used with Azure attribute-based access control (Azure ABAC).
+
+[customattr]: https://learn.microsoft.com/en-us/azure/active-directory/fundamentals/custom-security-attributes-overview
+
 
 
 
