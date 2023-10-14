@@ -14,6 +14,11 @@
 ### 1. Azure Structure 
 ### 2. Entra ID Structure 
 
+
+
+-----------------------------------------------------------------------------------------------------------
+
+
 ## 1. Azure Structure 
 
 ### Subscripton > resource group > resource  
