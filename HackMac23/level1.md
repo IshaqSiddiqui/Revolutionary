@@ -13,10 +13,14 @@ This is the first challenge in a series of unorthodox cloud directory escalation
 ## Logging into Azure Portal. 
 
 * Using given username and password, navigate to portal.azure.com. For those not involved in Hackmac, please use the following credentials (these will be refreshed cyclically)
-
-| Username | Password | 
+ | Password | 
  ---------  ----------
 | level1test@hackedathackmac23.onmicrosoft.com | Ev3ryP@sswrodN33dsSecurit!1 | 
+
+
+| Username  | Password |
+| ------------- | ------------- |
+| level1test@hackedathackmac23.onmicrosoft.com  | Ev3ryP@sswrodN33dsSecurit!1  |
 
 * Try playing around, you will notice you do not have access to much. In fact, you will not even be able to access Entra ID. This is what you will be able to see if you try navigating.
 
