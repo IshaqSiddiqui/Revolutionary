@@ -1,6 +1,23 @@
+# Level 1 - Azure AD (Entra ID), HackMac, Series of Cloud Directory Escalation Challenges
+
+## Contents 
+* Background
+* Logging in
+* Scope of Access Level 1 and why
+* Getting into level 2
+
+### Background 
+
+This is the first challenge in a series of unorthodox cloud directory escalation challenges. In this challenge you will learn to navigate the Azure portal and sift through what you do and do not have access to. If you solve all stops within this challenge, you will gain access to level 2 in this series. In order to solve level 1, you will need to solve several crypotgraphy challenges. 
+
 ## Logging into Azure Portal. 
 
-* Using given username and password, navigate to portal.azure.com
+* Using given username and password, navigate to portal.azure.com. For those not involved in Hackmac, please use the following credentials (these will be refreshed cyclically)
+
+| Username | Password | 
+ ---------  ----------
+| level1test@hackedathackmac23.onmicrosoft.com | Ev3ryP@sswrodN33dsSecurit!1 | 
+
 * Try playing around, you will notice you do not have access to much. In fact, you will not even be able to access Entra ID. This is what you will be able to see if you try navigating.
 
 ### What Entra ID access attempt will look like 
