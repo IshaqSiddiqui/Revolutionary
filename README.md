@@ -1,33 +1,18 @@
-## Consolidating all work done towards learning Cyber, Cloud, Tech, IT
+## Cool Projects and work
 
 <img align="center" alt="GIF" src="https://media.giphy.com/media/4lsBBIvwGyTo4/giphy.gif" />
 
 #### Objectives 
-
-* Hands on experience in cloud infrastructure
-  * Experience in IAM
-  * Experience in creating reliable networks
-  * Experience in resistant storage
-  * Essentially anything related to Enterpise Architecture.
-    
-* Hands on experience in cloud security
-  * Web Pentesting
-  * Defacing sites
-  * Network pentesting
-  * More to come as I learn more.
-    
-* Hands on experience in programming languages
-  * Python
-  * Java
-  * Ruby on Rails
     
 * Portfolio to be proud of
   * Something I can share with the community and is a respectable piece of work.
  
     <img alt="GIF" src="https://media.giphy.com/media/lkK7hFTOp1s4g/giphy.gif" />
- 
 
-### Snippet of markdown completion training    
+## Release 1 - HackMac23 - Status -> Released 
+## Release 2 - Simuland - Status -> On the way
+ 
+ 
 
  ![success of markdown][recentaccomplishment]
 
