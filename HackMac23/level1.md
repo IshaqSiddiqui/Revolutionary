@@ -15,6 +15,24 @@
 
 [Correct Docs]: https://learn.microsoft.com/en-au/entra/fundamentals/users-default-permissions#restrict-member-users-default-permissions
 
+### Navigating around Azure Portal 
+
+Where do you go next you would wonder. Where is the first challenge and how will you gain access to level 2? This is not black and white. Maybe you could find out what you have/don't have access to via [Graph][Grapha]? Maybe you would play around for a bit and notice that if you go to search resource groups in the search bar you will see this -> 
+
+<img width="1227" alt="image" src="https://github.com/IshaqSiddiqui/Revolutionary/assets/100017925/ac592ec4-7aa4-4867-8aa0-0839a27b77d3">
+
+Might be worth understanding scope and management for Azure [here][Scope]
+<img width="592" alt="image" src="https://github.com/IshaqSiddiqui/Revolutionary/assets/100017925/56705416-66f6-4596-91a0-e444844d65de">
+
+
+
+
+
+
+[Grapha]: https://developer.microsoft.com/en-us/graph/graph-explorer
+[Scope]: https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/overview
+
+
 
 
 
