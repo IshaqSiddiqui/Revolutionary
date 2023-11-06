@@ -21,8 +21,20 @@ Where do you go next you would wonder. Where is the first challenge and how will
 
 <img width="1227" alt="image" src="https://github.com/IshaqSiddiqui/Revolutionary/assets/100017925/ac592ec4-7aa4-4867-8aa0-0839a27b77d3">
 
-Might be worth understanding scope and management for Azure [here][Scope]
+
+
+* Might be worth understanding scope and management for Azure [here][Scope]
+
 <img width="592" alt="image" src="https://github.com/IshaqSiddiqui/Revolutionary/assets/100017925/56705416-66f6-4596-91a0-e444844d65de">
+
+### So you can see a resource group, now what? 
+* What can you do within this resource group? What access do you have
+
+<img width="1228" alt="image" src="https://github.com/IshaqSiddiqui/Revolutionary/assets/100017925/5b137cfd-4f18-4558-95ba-6c940e8e87b0">
+
+### Notice that being a reader of the group doesnt mean you can read everything inside! You're also a privileged file reader.
+
+<img width="1228" alt="image" src="https://github.com/IshaqSiddiqui/Revolutionary/assets/100017925/2d60dc7f-2790-4597-b264-81babc09effe">
 
 
 
