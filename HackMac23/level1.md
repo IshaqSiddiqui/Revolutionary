@@ -65,6 +65,8 @@ Where do you go next you would wonder. Where is the first challenge and how will
 [Scope]: https://learn.microsoft.com/en-us/azure/azure-resource-manager/management/overview
 
 
+## Getting into level 2
+
 Solve the challenge within this RG to progress to level 2
 
 
