@@ -123,7 +123,7 @@ See [here][customattr] -
 * Accidentally made administrative units with restricted access, preview feature. Now there are licensed redunant users that not even the global admin can edit.
 
 ## Solves 
-* In each section
+* Available on request, please ping me privately with what work you have done so far.
 
 
 
