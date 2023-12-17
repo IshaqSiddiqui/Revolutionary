@@ -17,7 +17,7 @@ This is the first challenge in a series of unorthodox cloud directory escalation
 
 | Username  | Password |
 | ------------- | ------------- |
-| level1test@hackedathackmac23.onmicrosoft.com  | Ev3ryP@sswrodN33dsSecurit!1  |
+| posthackmacl1@hackedathackmac23.onmicrosoft.com  | W3lcometoThis!234@12  |
 
 * Try playing around, you will notice you do not have access to much. In fact, you will not even be able to access Entra ID. This is what you will be able to see if you try navigating.
 
